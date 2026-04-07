@@ -98,4 +98,4 @@ def safra_kesesi_analiz(image_path):
 
 if __name__ == "__main__":
  
-    safra_kesesi_analiz("test.jpg") 
+    safra_kesesi_analiz("test.jpg")  // test yerine resmin ismini yazın orn:b1.jpg
